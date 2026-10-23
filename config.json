@@ -1,0 +1,14 @@
+{
+    "best_model_name": "BoW - Naive Bayes",
+    "class_names": [
+        "business",
+        "entertainment",
+        "politics",
+        "sport",
+        "tech"
+    ],
+    "num_classes": 5,
+    "max_sequence_length": 300,
+    "max_words": 30000,
+    "embedding_dim": 100
+}
